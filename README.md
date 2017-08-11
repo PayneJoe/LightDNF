@@ -16,8 +16,8 @@ LigthDNF is a DNF algorithm framework based on reversed index. It is designed fo
 
 To get started, please follow the Installation Guide and Quick Start.
 
-* Wiki (TODO)
-* Installation Guide (TODO)
+* [Wiki](https://github.com/PayneJoe/LightDNF/wiki)
+* [Installation Guide](https://github.com/PayneJoe/LightDNF/wiki/Installation-Guide)
 * Quick Start (TODO)
 * Examples (TODO)
 
