@@ -1,0 +1,10 @@
+ad_id,audience_gender,audience_age,audience_area
+10000,male:0/1/2:100100,male:1/3/4:100400
+10001,female:2/4:100100,unknown:1:100200
+10002,unknown:1/3/4:100200,unknown:2/3:100500
+10003,unknown:2:100300
+10004,unknown:unknown:100200
+10005,male:3:100400,unknown:1/3:100200/100100
+10006,female:4:100300
+10007,male:unknown:100500,unknown:1/3:100400
+10008,male:unknown:unknown,unknown:1/4:100200
